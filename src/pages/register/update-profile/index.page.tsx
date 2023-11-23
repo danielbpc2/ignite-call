@@ -5,7 +5,6 @@ import {
   MultiStep,
   Text,
   TextArea,
-  TextInput,
 } from '@ignite-ui/react'
 import { Container, Header } from '../styles'
 import { ArrowRight } from 'phosphor-react'
